@@ -1,0 +1,156 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.bg-light{
+    background-image: url("../imgs/fon2.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: #ff0fcb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 158px;
+}
+
+.logo{
+    height: 100%;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    color: #CEE5F2;
+    font-size: 32px;
+}
+
+h3{
+    color: #FDCA40;
+    font-size: 18px;
+}
+
+.PlayGlobal{
+    width: 300px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background: #FA198B;
+    border-radius: 50px;
+    border: 20px solid #CEE5F2;
+}
+
+form{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+input{
+    text-align: center;
+}
+
+.entrada{
+    border-radius: 20px;
+    border: 2px solid #FA198B;   
+    width: 200px;
+    height: 25px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.boton{
+    border-radius: 20px;
+    border: 5px solid #FDCA40;
+    background-color: #0FA3B1;
+    color: #CEE5F2;
+    width: 100px;
+    height: 35px;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.entrada:focus{
+   outline: #0FA3B1 solid 4px;
+}
+
+.boton:hover{
+    border: 5px solid #0FA3B1;
+    background-color: #FDCA40;
+    color: #111;
+}
+
+.Pregunta{
+    width: 50vw;
+    height: 150px;
+    background: #FA198B;
+    border-radius: 50px;
+    border: 20px solid #CEE5F2;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: #111;
+}
+
+p{
+    color: #CEE5F2;
+    font-size: 24px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.respuestas{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 40vw;
+}
+
+
+.botonRespuesta{
+    margin-top: 30px;
+    border-radius: 20px;
+    border: 5px solid #0FA3B1;
+    background-color: #CEE5F2;
+    color: #111;
+    width: 50vw;
+    height: 45px;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.botonRespuesta:hover{
+    border: 5px solid #CEE5F2;
+    background-color: #0FA3B1;
+    color: #CEE5F2;
+}
+
+a{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+}
+.rank{
+    margin: 20px;
+}
