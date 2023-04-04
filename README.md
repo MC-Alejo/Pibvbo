@@ -8,7 +8,7 @@ Proyecto originalmente creado con la intención de practicar el patrón de arqui
 La idea original se basa en que cada jugador debe responder la mayor cantidad de preguntas correctamente en el menor tiempo posible, para posicionarse entre los mejores del ranking global. En principio se diseñó para que el usuario pueda poner su nombre y unirse a la sala global, dicha sala se borra junto con los jugadores que hayan completado su “día”, cada 24 horas y, se vuelve a crear con nuevas preguntas y sus respuestas, en otras palabras, cada 24 horas los jugadores pueden volver a participar.
 
 
-## 🤔 ¿Qué conocimientos y experiencias adquiriste durante el desarrollo de este proyecto?
+## 🤔 ¿Qué conocimientos y experiencias se obtuvo durante el desarrollo de este proyecto?
 
 Por lo general, el objetivo era aprender el funcionamiento del patrón MVC, debido a que no llegamos a implementarlo en nuestros proyectos, en la cátedra Programacion Avanzada. Pero esto me sirvió para ampliar los conocimientos en PHP, como también el trabajar en el sistema de gestión de bases de datos MySQL.
 
