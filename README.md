@@ -4,7 +4,7 @@
 
 ## 📑Descripción
 
-Proyecto originalmente creado con la intención de practicar el patrón de arquitectura de software MVC en PHP.
+Proyecto originalmente creado en 2022 con la intención de practicar el patrón de arquitectura de software MVC en PHP.
 La idea original se basa en que cada jugador debe responder la mayor cantidad de preguntas correctamente en el menor tiempo posible, para posicionarse entre los mejores del ranking global. En principio se diseñó para que el usuario pueda poner su nombre y unirse a la sala global, dicha sala se borra junto con los jugadores que hayan completado su “día”, cada 24 horas y, se vuelve a crear con nuevas preguntas y sus respuestas, en otras palabras, cada 24 horas los jugadores pueden volver a participar.
 
 
@@ -62,10 +62,11 @@ Para este caso, los pasos para probar el juego se detallarán mediante el paquet
 - Colocar las carpetas del proyecto en htdocs:
     * Paso 1: Localiza la carpeta htdocs dentro de la carpeta XAMPP, abrela y si es la primera vez que instalas XAMPP, entonces borra todos los archivos de esa carpeta.
     * Paso 2: Copia todos los archivos y carpetas del proyecto en la carpeta.
+- Por último ingresá a http://localhost/ 
 
 
 ## ❗IMPORTANTE
-Se debe de configurar todos los archivos de la carpeta mvc_mod, con la configuración de la conexión a su base de datos, actualizando la dirección IP, usuario, contraseña y nombre de la base de datos según corresponda, ya que, puede que no coincida con la configuración que se usó en el desarrollo.
+Se debe de editar todos los archivos de la carpeta mvc_mod, con la configuración de la conexión a su base de datos, actualizando la dirección IP, usuario, contraseña y nombre de la base de datos según corresponda, ya que, puede que no coincida con la configuración que se usó en el desarrollo.
 Debido a la ausencia de un sistema de inicio de sesión, se utiliza la IP pública de los usuarios para identificarlos como usuarios únicos. Es por ello que, es necesario habilitar los puertos requeridos (suficiente con abrir el puerto 80 para Apache). Dado que el juego no se puede probar a través de la dirección loopback (localhost), se debe de acceder mediante la IP pública (consultable en: https://www.cual-es-mi-ip.net/).
 
 
