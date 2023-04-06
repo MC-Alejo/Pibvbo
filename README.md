@@ -78,5 +78,4 @@ Como el tiempo con el que cuento es muy limitado, y aún faltan pulir, agregar y
 
 
 ## 📄 Licencia
-MIT Public License v3.0
-No puede usarse comercialmente.
+MIT License.
