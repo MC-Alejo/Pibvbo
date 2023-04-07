@@ -1,19 +1,19 @@
-# 🦢 Pibvbo
+# Pibvbo
 <div align="center"><img src="https://github.com/MC-Alejo/Pibvbo/blob/main/imgs/Pib.png" alt="logo" width="400" height="auto"/></div>
 
 
-## 📑Descripción
+## Descripción
 
 Proyecto originalmente creado en 2022 con la intención de practicar el patrón de arquitectura de software MVC en PHP.
 La idea original se basa en que cada jugador debe responder la mayor cantidad de preguntas correctamente en el menor tiempo posible, para posicionarse entre los mejores del ranking global. En principio se diseñó para que el usuario pueda poner su nombre y unirse a la sala global, dicha sala se borra junto con los jugadores que hayan completado su “día”, cada 24 horas y, se vuelve a crear con nuevas preguntas y sus respuestas, en otras palabras, cada 24 horas los jugadores pueden volver a participar.
 
 
-## 🤔 ¿Qué conocimientos y experiencias se obtuvo durante el desarrollo de este proyecto?
+## ¿Qué conocimientos y experiencias se obtuvo durante el desarrollo de este proyecto?
 
 Por lo general, el objetivo era aprender el funcionamiento del patrón MVC, debido a que no llegamos a implementarlo en nuestros proyectos, en la cátedra Programacion Avanzada. Pero esto me sirvió para ampliar los conocimientos en PHP, como también el trabajar en el sistema de gestión de bases de datos MySQL.
 
 
-## 💻 Tecnologías
+## Tecnologías
 
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
@@ -21,7 +21,7 @@ Por lo general, el objetivo era aprender el funcionamiento del patrón MVC, debi
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 
 
-## 🎨 Paleta de colores utilizadas
+## Paleta de colores utilizadas
 
 | Color             | Hex                  |
 | ----------------- | ---------------------|
@@ -40,7 +40,7 @@ Capturas de pantalla del proyecto:
 ![Captura del proyecto N4](https://github.com/MC-Alejo/Pibvbo/blob/main/capturas/Captura%20de%20pantalla%204.png?raw=true)
 
 
-## ✒️ Autor
+## Autor
 **Alejo Cabana**
 * [LinkedIn](https://www.linkedin.com/in/mc-alejo/)
 
@@ -77,5 +77,5 @@ Como el tiempo con el que cuento es muy limitado, y aún faltan pulir, agregar y
 * Agregar ranking semanal o mensual o por región.
 
 
-## 📄 Licencia
+## Licencia
 MIT License.
